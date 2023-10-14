@@ -1,4 +1,4 @@
-## Olá! Eu sou o Otávio Maciel ✋🏽
+## Olá! Eu sou o Otávio ✋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/ot%C3%A1vio-m-4593761a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavio_aramac/)
