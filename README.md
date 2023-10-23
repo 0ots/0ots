@@ -18,4 +18,4 @@
 </div><br/>
 
 Sejam bem-vindos ao meu GitHub.<br>
-Atualmente estou desenvolvendo meu conhecimento em JavaScript, logo, os projetos aqui postados são referentes a esta lingugagem.
+Atualmente estou desenvolvendo meu conhecimento em JavaScript, logo, os projetos aqui postados são referentes a esta linguagem.
