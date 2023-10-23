@@ -17,4 +17,5 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, busco aprimorar meus conhecimentos na área de desenvolvimento a fim de mudar a vida das pessoas.
+Sejam bem-vindos ao meu GitHub.<br>
+Atualmente estou desenvolvendo meu conhecimento em JavaScript, logo, os projetos aqui postados são referentes a esta lingugagem.
